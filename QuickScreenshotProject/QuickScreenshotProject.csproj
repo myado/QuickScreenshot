@@ -34,5 +34,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Screenshots\en-US\Settings.png" />
+    <Content Include="Screenshots\en-US\Edit.png" />
+    <Content Include="Screenshots\en-US\Screenshot 02.png" />
+    <Content Include="Screenshots\en-US\Screenshots.png" />
+    <Content Include="Screenshots\en-US\Screenshot 01.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
